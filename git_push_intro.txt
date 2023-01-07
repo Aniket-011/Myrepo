@@ -1,0 +1,6 @@
+1. Github account
+2. Make empty repo. on Github
+3. local system:-
+	3.1. git config --global user.name "username of github"
+	3.2. git config -- global user.email "email use in github"
+4. git push -u origin master
